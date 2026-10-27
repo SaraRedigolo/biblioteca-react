@@ -1,16 +1,23 @@
-# React + Vite
+Sistema de Gerenciamento de Biblioteca
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido com o objetivo de facilitar o gerenciamento de uma biblioteca, permitindo organizar livros, usuários, funcionários, empréstimos e controle de estoque em uma única plataforma.
 
-Currently, two official plugins are available:
+O sistema conta com funcionalidades de cadastro, consulta, edição e exclusão de registros, além de uma interface intuitiva e recursos para facilitar o controle e a organização das informações.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Tecnologias utilizadas
 
-## React Compiler
+-React.js
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+-JavaScript
 
-## Expanding the ESLint configuration
+-HTML5
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-CSS3 / Tailwind CSS
+
+-LocalStorage para armazenamento de dados
+
+Objetivo do projeto
+
+Este projeto faz parte do meu aprendizado em Análise e Desenvolvimento de Sistemas e tem como objetivo colocar em prática conhecimentos de desenvolvimento web, criação de interfaces, gerenciamento de dados e lógica de programação.
+
+<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/efb99f06-af65-46db-824e-216008f52ecb" />
