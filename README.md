@@ -21,3 +21,5 @@ Objetivo do projeto
 Este projeto faz parte do meu aprendizado em Análise e Desenvolvimento de Sistemas e tem como objetivo colocar em prática conhecimentos de desenvolvimento web, criação de interfaces, gerenciamento de dados e lógica de programação.
 
 <img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/efb99f06-af65-46db-824e-216008f52ecb" />
+
+<img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/15278026-0a43-4d5d-845c-5bb41c6009a7" />
