@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+.dark select {
+  background-color: rgb(55 65 81); /* gray-700 */
+  color: white;
+  border-color: rgb(75 85 99);
+  color-scheme: dark;
+}
+
+.dark option {
+  background-color: rgb(31 41 55); /* gray-800 */
+  color: white;
+}
